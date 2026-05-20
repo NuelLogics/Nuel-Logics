@@ -31,10 +31,10 @@ I design and build AI-powered automation systems that eliminate repetitive tasks
 *   **Stack:** Vapi, OpenAI, APIs.
 *   **Outcome:** Reduced manual call handling and improved response speed.
 
-#### AI Customer Support Chatbot
-*   **Concept:** Handled inquiries, FAQs, and basic troubleshooting without human intervention.
-*   **Stack:** OpenAI, n8n, API integrations.
-*   **Outcome:** Automated support flow and reduced response time.
+#### [ AI Customer Support Automation](https://github.com/Nuel-Logics/ai-lead-gen-automation.git)
+*   **Concept:** Built an AI-powered customer support system that automatically answers FAQs and handles customer inquiries using business knowledge.
+*   **Stack:** n8n, Gemini (LLM + embeddings), Pinecone (vector DB), Postgres (memory), Telegram API.
+*   **Outcome:** Automated 70–90% of repetitive support queries, reduced response time, and enabled scalable customer support without hiring.
 
 #### [ Lead Management & Automation System](https://github.com/Nuel-Logics/ai-lead-gen-automation.git)
 *   **Concept:** Automated workflow to capture, process, and distribute leads across platforms.
