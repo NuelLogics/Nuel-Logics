@@ -50,7 +50,7 @@ I design and build AI-powered automation systems that eliminate repetitive tasks
 
 ---
 
-### CLICK TO CONNECT WITH/WORK WITH ME
+### CLICK TO CONNECT/WORK WITH ME
 
 [![Upwork](https://shields.io)](https://www.upwork.com/freelancers/~01736246aba051cc59?mp_source=share)
 [![WhatsApp](https://shields.io)](https://wa.me/2347071876370)
