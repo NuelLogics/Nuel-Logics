@@ -1,4 +1,4 @@
-# Nuel Logics | AI Automation Expert 
+# Martin Emmanuel | AI Automation Expert 
 
 **AI Chatbots | Voice AI Agents | n8n Workflows**
 
